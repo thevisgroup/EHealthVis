@@ -1,0 +1,3 @@
+[submodule "LetterVis"]
+	path = LetterVis
+	url = https://github.com/thevisgroup/LetterVis
