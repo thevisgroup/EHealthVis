@@ -4,3 +4,6 @@
 [submodule "EHR-STAR"]
 	path = EHR-STAR
 	url = https://github.com/HenryQW/EHR-STAR
+[submodule "EnsembleVis"]
+	path = EnsembleVis
+	url = https://github.com/thevisgroup/EnsembleVis
