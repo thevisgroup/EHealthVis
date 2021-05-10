@@ -1,3 +1,6 @@
 [submodule "LetterVis"]
 	path = LetterVis
 	url = https://github.com/thevisgroup/LetterVis
+[submodule "EHR-STAR"]
+	path = EHR-STAR
+	url = https://github.com/HenryQW/EHR-STAR
